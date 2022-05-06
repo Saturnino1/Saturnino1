@@ -18,3 +18,12 @@
   <img align="center" alt="Satur-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   
 </div>
+         
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/saturnino-mendes-958354231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMpg%2BRs%2B6TTykExzFy%2Fx9qA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  padding="40px auto" ></a>
+  
+  <a href="https://www.hackrank.com/saturninomoreir1" target="_blank"><img magin_left="50px" src="https://img.icons8.com/windows/452/hackerrank.png" target="_blank"  width="50px" height="50px" ><p>Hack Rank profile</p></a>
+</div>
+  
+  
+  

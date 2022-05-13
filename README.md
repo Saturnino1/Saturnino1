@@ -16,11 +16,14 @@
   <img align="center" alt="Satur-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
   <img align="center" alt="Satur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Satur-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Satur-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
     <br>
     <a href="https://www.hackrank.com/saturninomoreir1" target="_blank"><img magin_left="50px" src="https://img.icons8.com/windows/452/hackerrank.png" target="_blank"  width="50px" height="50px" alt="Hack Rank profile"></a>
 </div>
          
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
   
   
   

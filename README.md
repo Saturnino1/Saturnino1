@@ -1,6 +1,6 @@
 
 <h2>Student of science programing</h2>
-<p>Inicante na área da programação...</p>
+<b color="blue">Full stack Developer Junior</b>
 
 
 <div align="left">

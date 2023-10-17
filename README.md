@@ -1,5 +1,5 @@
 
-<h2>Student of science programing</h2>
+<h2>Student of Informatics engineering</h2>
 <b color="blue">Full stack Developer Junior</b>
 
 

@@ -17,12 +17,16 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="MySQL-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="MySQL-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+          
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img align="center" alt="React.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-    <br/>
-    <br/>
-    <a href="https://www.hackrank.com/saturninomoreir1" target="_blank"><img magin_left="50px" src="https://img.icons8.com/windows/452/hackerrank.png" target="_blank"  width="50px" height="50px" alt="Hack Rank profile"></a>
-    <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
+  <img align="center" alt="Node.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+          
+  <br/>
+  <br/>
+  <a href="https://www.hackrank.com/saturninomoreir1" target="_blank"><img magin_left="50px" src="https://img.icons8.com/windows/452/hackerrank.png" target="_blank"  width="50px" height="50px" alt="Hack Rank profile"></a>
+  <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
 </div>
   
  

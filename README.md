@@ -1,6 +1,6 @@
 
 <h2>Student of Informatics engineering</h2>
-<b color="blue">Full stack Developer Junior</b>
+<b color="blue">Full stack Developer</b>
 
 
 <div align="left">
@@ -25,7 +25,7 @@
           
   <br/>
   <br/>
-  <a href="https://www.hackrank.com/saturninomoreir1" target="_blank"><img magin_left="50px" src="https://img.icons8.com/windows/452/hackerrank.png" target="_blank"  width="50px" height="50px" alt="Hack Rank profile"></a>
+  
   <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
 </div>
   

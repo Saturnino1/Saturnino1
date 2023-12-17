@@ -27,6 +27,8 @@
   <br/>
   
   <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
+  
+  <a href= "https://www.hackerrank.com/profile/saturninomendes1" target="_blank"><img magin_left="50px" src= "https://icons8.com/icon/h5EUmNCXhSH0/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
 </div>
   
  

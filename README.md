@@ -1,6 +1,6 @@
 
-<h2>Welcome To My GitHub. I'm programmer!</h2>
-<strong style="color:blue;">gitHub statistics: </strong>
+<h2>Welcome To My GitHub's Account. <br/> <i>I'm Programmer! </i> </h2>
+<strong styie="color:blue;">GitHub Statistics: </strong>
 
 
 <div align="left">
@@ -11,7 +11,7 @@
 
   <div style="display: inline_block"><br>
 
-  <strong style="color:blue;">Main technologies : </strong>         
+  <strong style="color:blue;">Main Technologies : </strong>         
   <div style="display:flex; " >
 
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

@@ -1,6 +1,6 @@
 
-<h2>Student of Informatics engineering</h2>
-<b color="blue">Full stack Developer</b>
+<h2>Welcome To My GitHub. I'm programmer!</h2>
+<strong style="color:blue;">gitHub statistics: </strong>
 
 
 <div align="left">
@@ -10,6 +10,10 @@
 </div>
 
   <div style="display: inline_block"><br>
+
+  <strong style="color:blue;">Main technologies : </strong>         
+  <div style="display:flex; " >
+
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
@@ -18,17 +22,19 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="MySQL-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MySQL-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-          
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
   <img align="center" alt="Node.js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  
+  </div>
           
   <br/>
-  <br/>
-  
-  <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
-  
-  <a href= "https://www.hackerrank.com/profile/saturninomendes1" target="_blank"><img magin_left="50px" src= "https://icons8.com/icon/h5EUmNCXhSH0/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
+  <strong style="color:blue;">Contacts: </strong>
+  <div style="display: flex;">
+    <a href="http://www.linkedin.com/in/saturnino-moreira-mendes-rnx/" target="_blank"><img magin_left="50px" src="https://img.icons8.com/fluency/2x/linkedin.png" target="_blank"  width="60px" height="50px" alt="Linkedin profile"></a>
+    <a href= "https://www.hackerrank.com/profile/saturninomendes1" target="_blank"><img magin_left="50px" src= "https://img.icons8.com/?size=80&id=h5EUmNCXhSH0&format=png" target="_blank"  width="60px" height="50px" alt="Hackerrank profile"></a>
+  </div>
+
 </div>
   
  
